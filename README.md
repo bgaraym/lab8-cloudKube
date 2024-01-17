@@ -1,2 +1,6 @@
 # lab8-cloudKube
-Laboratorio 8: GCP y Kubernetes. Asignatura Cloud, HPC &amp; Bio del Máster en Bioinformática.
+Master en Bioinformática. Cloud, HPC & Bio
+
+Laboratorio 8: GCP y Kubernetes
+
+Curso académico 2023-24
